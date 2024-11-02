@@ -1,4 +1,4 @@
-# Python All_in_One_for_Dummies
+# Python Stats All_in_One_for_Dummies
 ------------------------------------
 
 ![image](https://github.com/user-attachments/assets/a1d9cdb1-31e3-44cd-a068-4fa8a81b6bde)
