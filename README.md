@@ -13,7 +13,7 @@
 
 ### Statistics using Python
 
-This repository is designed to approach a series of statistics notebooks, which I use to solve problems that I'm curious about. I created this repository to master statistics and solve everyday problems. I will learn something new every day. The project contains two folders initially, [csv](csv) containing all csv and xlsx files used to make the analyses and [Jupyter notebooks](Jupyter_notebooks) containing python code.
+This repository is designed to approach a series of statistics notebooks, which I use to solve problems that I'm curious about. I created this repository to master statistics and solve everyday problems. Also to learn something new every day. The project contains two folders initially, [csv](csv) containing all csv and xlsx files used to make the analyses and [Jupyter notebooks](Jupyter_notebooks) containing python code.
 
 ### Clone this repository
 
