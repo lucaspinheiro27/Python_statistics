@@ -1,4 +1,4 @@
-# Statistics series
+# Statistics
 
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=Python&logoColor=grey)
 ![Static Badge](https://img.shields.io/badge/jupyter-orange?logo=jupyter&logoColor=grey)
@@ -13,10 +13,23 @@
 
 ### Statistics using Python
 
-This repository is designed to approach a series of statistics notebooks, which I use to solve problems that I'm curious about. I created this repository to learn statistics applied to everyday problems and to learn something every day. The project contains two folders initially [csv](csv) containing all csv and xlsx files used to make the analyses and [Jupyter notebooks](Jupyter_notebooks) containing python code.
+This repository is designed to approach a series of statistics notebooks, which I use to solve problems that I'm curious about. I created this repository to master statistics and solve everyday problems. I will learn something new every day. The project contains two folders initially, [csv](csv) containing all csv and xlsx files used to make the analyses and [Jupyter notebooks](Jupyter_notebooks) containing python code.
 
 ### Clone this repository
 
 ```
 git clone https://github.com/lucaspinheiro27/Python_statistics
 ```
+# Inspiration
+The statistics formulas and jargon used throughout the notebooks are based on the book [Statistics All-in-One for Dummies ](https://www.amazon.com.br/Statistics-All-Dummies-Deborah-Rumsey/dp/1119902568)
+
+![image](https://github.com/user-attachments/assets/e011ca72-0d38-4569-b010-a0b19887e513)
+
+# Table of content
+
+
+| File     | About |
+| ---      | ---       |
+| [Saude_mental.ipynb](Jupyter_notebooks/Saude_mental.ipynb) | This notebook focuses on exploratory data analysis in order to identify the causes of mental health issues. |
+|      | |        |
+
