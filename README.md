@@ -20,11 +20,6 @@ This repository is designed to approach a series of statistics notebooks, which 
 ```
 git clone https://github.com/lucaspinheiro27/Python_statistics
 ```
-# Inspiration
-The statistics formulas and jargon used throughout the notebooks are based on the book [Statistics All-in-One for Dummies ](https://www.amazon.com.br/Statistics-All-Dummies-Deborah-Rumsey/dp/1119902568)
-
-![image](https://github.com/user-attachments/assets/e011ca72-0d38-4569-b010-a0b19887e513)
-
 # Table of content
 
 
